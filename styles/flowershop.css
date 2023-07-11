@@ -151,7 +151,7 @@ header{
 
 /* Get Deals*/
 .Get-deals{
-    background-image: url('/images/Rectangle 9.png');
+    background-image: url('images/Rectangle 9.png');
     background-repeat: no-repeat;
     height: 500px ;
     max-width:  1100px;
